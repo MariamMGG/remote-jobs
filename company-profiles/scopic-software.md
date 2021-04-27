@@ -1,13 +1,15 @@
 # Scopic Software
 
 ## Company blurb
-We create custom solutions for virtually everything! Our passion is developing visually engaging and interactive solutions, custom made to enhance your business. Over a decade of service and 1000+ projects, developing digital products and user-centric software for a wide range of industries and niches including: Manufacturing, Music and film, Fintech, Food and Fitness, Healthcare and Gaming.
+Scopic is the world’s largest virtual company. Founded in 2006, we have grown consistently by delivering innovative, cutting-edge software products for our clients and creating an empowering environment for our employees.
+
+We build advanced software for clients and users around the globe. With 10+ years in the industry and 1000+ projects under our belt, we’ve developed software for Manufacturing, Media and Entertainment, Fintech, Healthcare, Food and Fitness, and Gaming. Learn more about career opportunities at Scopic: scopicsoftware.com/careers.
 
 ## Company size
-200+
+280+
 
 ## Remote status
-We are a fully remote company, with our team members located in 30+ countries.
+We are a fully remote company, with our team members located in 40+ countries.
 
 ## Region
 Albania
@@ -32,7 +34,7 @@ Philippines
 Poland
 Portugal
 Romania
-Russia (but not Crimea)
+Russia 
 Serbia
 Ukraine
 Uzbekistan
