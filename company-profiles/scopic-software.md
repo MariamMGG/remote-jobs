@@ -32,7 +32,7 @@ Philippines
 Poland
 Portugal
 Romania
-Russia (but not Crimea)
+Russia 
 Serbia
 Ukraine
 Uzbekistan
